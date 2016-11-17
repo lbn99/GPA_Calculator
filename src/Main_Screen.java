@@ -14,9 +14,6 @@ import java.awt.FlowLayout;
 public class Main_Screen extends JFrame{
 	public static void main(String[] args){
 		Main_Screen start = new Main_Screen();
-//		String[] fonts = GraphicsEnvironment.getLocalGraphicsEnvironment().getAvailableFontFamilyNames();
-//		for(int i = 0; i < fonts.length; i++)
-//			System.out.println(fonts[i]);
 	}
 	public Main_Screen(){
 		setSize(500,300);
